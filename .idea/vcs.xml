@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/dbscript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticwr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticwr-gws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticwr-gws-old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticwr-old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticwrAPI" vcs="Git" />
+  </component>
+</project>
